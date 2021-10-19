@@ -4,4 +4,6 @@
 
 - :godmode: I’m currently working on becoming a **Full Stack Web Developer**
 - :full_moon: I’m currently learning **JavaScript, Node.js, React, Next.js**
+- :speech_balloon: Ask me anything you want to know
 - :satellite: How to reach me: [LinkedIn](https://www.linkedin.com/in/jakub-gazdziak-644058224/)
+
