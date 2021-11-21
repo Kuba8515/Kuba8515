@@ -1,4 +1,4 @@
-### Hi there, I'm Kuba 👋
+### Hi there, I'm Jakub 👋
 
 ######  Welcome to my GitHub Profile. My name is Jakub currently living in Vienna, Austria.
 
