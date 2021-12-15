@@ -1,9 +1,10 @@
-### Hi there, I'm Jakub 👋
+## Hi there, I'm Jakub 👋
 
-######  Welcome to my GitHub Profile. My name is Jakub currently living in Vienna, Austria.
+Welcome to my GitHub Profile. I'm Jakub, Web Developer and technical support based in Vienna, Austria.
 
-- :godmode: I’m currently working on becoming a **Full Stack Web Developer**
-- :full_moon: I’m currently learning **JavaScript, TypeScript, Node.js, React, Next.js**
-- :speech_balloon: Ask me anything you want to know
-- :satellite: How to reach me: [LinkedIn](https://www.linkedin.com/in/jakub-gazdziak-644058224/)
+- 👨‍🎓 Finished the Upleveled.io Full Stack Web Development Bootcamp in Vienna.
+- 🌱 **Full Stack Web Developer** with a particular interest in backend. Comfortable with **JavaScript, React, Next.js & CSS/HTML, as well as Node.js and PostgreSQL** but always eager to learn new technologies.
+- 🚀 4+ years work experience as a technical support during events, which sparked the interest in web development. Fluent in German, English and Polish.
+- 💬 Ask me anything you want to know
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jakub-gazdziak-644058224/) Email: jakub.gazdziak@gmail.com
 
